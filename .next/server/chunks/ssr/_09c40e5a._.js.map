@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///home/georgepastushok/portfolio-2/app/dashboard/invoices/page.tsx"],"sourcesContent":["import AcmeLogo from '@/app/ui/acme-logo';\nimport { ArrowRightIcon } from '@heroicons/react/24/outline';\nimport Link from 'next/link';\nimport { cursive, lusitana } from 'app/ui/fonts';\nimport Image from 'next/image';\n\nexport default function Page() {\n  return (\n    <p>Invoices Page</p>\n  );\n}\n"],"names":[],"mappings":";;;;;AAMe,SAAS;IACtB,qBACE,6WAAC;kBAAE;;;;;;AAEP","debugId":null}}]
+}

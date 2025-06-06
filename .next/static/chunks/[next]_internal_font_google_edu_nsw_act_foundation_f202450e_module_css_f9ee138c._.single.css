@@ -1,0 +1,25 @@
+/* [next]/internal/font/google/edu_nsw_act_foundation_f202450e.module.css [app-client] (css) */
+@font-face {
+  font-family: Edu NSW ACT Foundation;
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url("../media/raxsHjqJtsNBFUi8WO0vUBgc9D_2lV_oQdCASFdXsM6rDks-s.a15f55a6.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Edu NSW ACT Foundation Fallback;
+  src: local(Arial);
+  ascent-override: 129.41%;
+  descent-override: 31.08%;
+  line-gap-override: 0.0%;
+  size-adjust: 78.51%;
+}
+
+.edu_nsw_act_foundation_f202450e-module__t_sSkG__className {
+  font-family: Edu NSW ACT Foundation, Edu NSW ACT Foundation Fallback;
+  font-style: normal;
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_edu_nsw_act_foundation_f202450e_module_css_f9ee138c._.single.css.map*/
